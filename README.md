@@ -43,7 +43,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center"> 
-  <a href="[https://hann-ah.tistory.com]">
+  <a href="https://hann-ah.tistory.com">
     <img src="https://img.shields.io/badge/Blog-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
 </div>
